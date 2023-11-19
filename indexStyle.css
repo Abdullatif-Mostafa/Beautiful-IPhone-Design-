@@ -136,6 +136,7 @@ body
 {
     width: 60px;
     height: 80px;
+    cursor: pointer;
     transition: .5s;
     -webkit-transition: .5s;
     -moz-transition: .5s;
